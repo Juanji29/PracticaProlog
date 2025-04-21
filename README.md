@@ -1,0 +1,2 @@
+# PracticaProlog
+Practica  2
